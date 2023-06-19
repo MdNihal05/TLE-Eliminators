@@ -1,0 +1,6 @@
+1.    https://codeforces.com/problemset/problem/1143/C
+2.    https://codeforces.com/problemset/problem/1714/G
+3.    https://cses.fi/problemset/task/1687
+4.    https://cses.fi/problemset/task/1688
+5.    https://cses.fi/problemset/task/1132
+6.    https://codeforces.com/contest/208/problem/E
