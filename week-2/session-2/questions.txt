@@ -1,0 +1,8 @@
+1  https://codeforces.com/problemset/problem/1336/A
+2  https://leetcode.com/problems/binary-tree-cameras
+3  https://codeforces.com/contest/1528/problem/A
+4  https://codeforces.com/contest/219/problem/D
+5  https://codeforces.com/contest/161/problem/D
+6  https://codeforces.com/contest/61/problem/D
+7  https://codeforces.com/contest/1083/problem/A
+8  https://codeforces.com/contest/1324/problem/F
