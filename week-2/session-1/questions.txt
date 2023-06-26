@@ -1,1 +1,8 @@
-
+1  https://cses.fi/problemset/task/1136
+2  https://www.spoj.com/problems/QTREE2/
+3  https://codeforces.com/problemset/problem/1401/D
+4  https://codeforces.com/gym/102694/problem/D
+5  https://codeforces.com/gym/102694/problem/C
+6  https://cses.fi/problemset/task/1137
+7  https://codeforces.com/gym/102694/problem/E
+8  https://cses.fi/problemset/task/1138
