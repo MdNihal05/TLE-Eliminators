@@ -1,0 +1,7 @@
+1  https://cses.fi/problemset/task/1193
+2  https://cses.fi/problemset/task/1666
+3  https://codeforces.com/contest/1365/problem/D
+4  https://www.spoj.com/problems/ADACYCLE/
+5  https://codeforces.com/problemset/problem/1263/D
+6  https://codeforces.com/contest/1027/problem/D
+7  https://codeforces.com/contest/1209/problem/D
