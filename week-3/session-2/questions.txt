@@ -1,0 +1,2 @@
+1  https://codebreaker.xyz/problem/decayedbridges
+2  https://codeforces.com/gym/100712/attachments/download/3454/acm-amman-collegiate-programming-contest-en.pdf    -problem F
