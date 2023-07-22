@@ -1,2 +1,4 @@
-1  https://codeforces.com/problemset/problem/744/A
-2  https://www.spoj.com/problems/ULM09/
+1  https://codeforces.com/problemset/problem/744/A3
+2  https://codeforces.com/problemset/problem/598/D
+3  https://www.spoj.com/problems/ULM09/
+4  https://codeforces.com/contest/17/problem/B
