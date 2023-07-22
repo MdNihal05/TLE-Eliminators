@@ -1,0 +1,6 @@
+1  https://cses.fi/problemset/task/1682]
+2  https://codeforces.com/problemset/problem/427/C
+3  https://www.codechef.com/problems/CHEFRRUN
+4  https://cses.fi/problemset/task/1679
+5  https://cses.fi/problemset/task/1680
+6  https://cses.fi/problemset/task/1681
